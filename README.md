@@ -57,9 +57,11 @@ Model graph:
 <img width="1266" height="1312" alt="image" src="https://github.com/user-attachments/assets/eacaf3d3-c0ae-450c-a13b-f7c68cfb4d0f" />
 
 Open circuit characteristics
+
 <img width="485" height="440" alt="Screenshot 2026-03-09 165916" src="https://github.com/user-attachments/assets/fec35a94-f9bd-40f8-8bc5-781707d9a1a8" />
 
 Load Characteristics:
+
  <img width="533" height="393" alt="Screenshot 2026-03-09 165945" src="https://github.com/user-attachments/assets/b4c038cc-eafc-48d3-824a-e35968f48383" />
 
 Result:
